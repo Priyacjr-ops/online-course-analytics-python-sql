@@ -1,0 +1,11 @@
+course_id,course_name,category,difficulty_level,duration_hours,language,status,created_date,price
+1,python,programming,beginner,40,english,active,2024-01-01,2999.00
+2,sql,"data analytics",beginner,30,english,active,2024-01-05,1999.00
+3,java,programming,intermediate,60,english,active,2024-01-10,3499.00
+4,powerbi,"data analytics",intermediate,25,english,active,2024-01-12,2499.00
+5,statistics,statistics,beginner,35,english,active,2024-01-15,1999.00
+6,html,"web development",beginner,20,english,active,2024-01-18,1499.00
+7,css,"web development",beginner,15,english,active,2024-01-20,1299.00
+8,"generative ai",ai,advanced,50,english,active,2024-01-25,4999.00
+9,"advanced sql","data analytics",advanced,45,english,active,2024-02-01,3999.00
+10,"machine learning",ai,advanced,70,english,inactive,2024-02-05,5999.00
